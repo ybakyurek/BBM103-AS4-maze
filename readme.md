@@ -12,8 +12,8 @@ This program is designed to solve mazes represented as text files. It provides s
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/maze-solver.git
-cd maze-solver
+git clone https://github.com/ybakyurek/BBM103-AS4-maze.git
+cd BBM103-AS4-maze
 ```
 
 ### 2. Run the Program
