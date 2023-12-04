@@ -4,7 +4,7 @@
 This program is designed to solve mazes represented as text files. It provides solutions for two types of mazes: a regular maze and a maze with health points.
 
 ## Prerequisites
-- Python 3.x
+Make sure you have Python installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
 
 ## How to Use
 
