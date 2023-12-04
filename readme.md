@@ -57,6 +57,7 @@ PPPPPW
 
 
 
+
 ### Solving the Maze
 The regular maze is solved using a recursive algorithm that explores possible paths until it finds the exit. The solution path is then marked in the maze.
 
@@ -65,6 +66,25 @@ In the maze with health points, the program identifies the health position ('H')
 
 ### Writing to Output
 The program writes the solution of both mazes to an output file named `output.txt`.
+
+`OUTPUT.TXT`
+
+```plaintext
+maze solution
+0 0 0 0 0 0 
+0 0 0 0 1 S 
+0 0 0 0 1 0 
+1 1 1 1 1 0 
+F 0 0 0 0 0 
+0 0 0 0 0 0 
+health maze solution
+0 0 0 0 0 0 
+0 0 0 0 1 S 
+0 0 0 0 1 0 
+1 1 H 1 1 0 
+F 0 0 0 0 0 
+0 0 0 0 0 0
+```
 
 Feel free to explore and modify the maze files to test different scenarios.
 
